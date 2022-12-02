@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+[Aa]ssets\Scripts\Model\Resnet34_3inputs_448x448_20200609.onnx
+[Aa]ssets\Scripts\Model\Resnet34_3inputs_448x448_20200609.onnx.meta
